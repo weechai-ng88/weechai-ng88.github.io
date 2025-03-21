@@ -7,7 +7,7 @@ This site showcases my journey as a **Data Analyst | Aspiring Data Scientist**, 
 
 ## 🌐 Live Portfolio
 
-🔗 [Visit My Portfolio Website](https://weechai-ng.github.io/)
+🔗 [Visit My Portfolio Website](https://weechai-ng88.github.io/)
 
 ---
 
